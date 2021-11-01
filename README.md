@@ -1,14 +1,16 @@
 
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou o Kauan Ranieri</h1>
 
-
+ ## ⚙️ &nbsp;GitHub Analytics
+ 
  <div align="center">
   <a href="https://github.com/KauanRanieri">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=KauanRanieri&show_icons=true&theme=chartreuse-dark"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauanRanieri&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
 
- ## ⚙️ &nbsp;GitHub Analytics
+
+ ## 🛠  Tech Stack
  
  <div style="display: inline_block">
   <img align="center" alt="Kauan-Js" src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript">
