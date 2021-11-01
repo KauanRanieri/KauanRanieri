@@ -21,9 +21,9 @@
   <a href="https://www.linkedin.com/in/kauan-ranieri-483670161/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
  ## ⚙️&nbsp;GitHub Analytics
- 
- <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauanRanieri&layout=compact&theme=vision-friendly-dark" alt="KauanRanieri most languages"/>
-</p>
- 
+<div>
+  <a href="https://github.com/KauanRanieri">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KauanRanieri&show_icons=true&theme=gotham&include_all_commits=false&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauanRanieri&layout=compact&langs_count=6&theme=gotham&exclude_repo=Rocket.Q,podcastr-nlw5"/>
+</div>
 </div>
