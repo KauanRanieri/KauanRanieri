@@ -3,13 +3,13 @@
 
  🔥 Software developer
 
-## <div align="center">
+ <div align="center">
   <a href="https://github.com/KauanRanieri">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=KauanRanieri&show_icons=true&theme=chartreuse-dark"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauanRanieri&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
 
- <div style="display: inline_block"><br>
+ ## <div style="display: inline_block"><br>
   <img align="center" alt="Kauan-Js" src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript">
   <img align="center" alt="Kauan-HTML" src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5">
   <img align="center" alt="Kauan-CSS" src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6">
