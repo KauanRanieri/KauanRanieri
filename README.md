@@ -10,7 +10,7 @@
 </div>
 
  <div style="display: inline_block"><br>
-  <img align="center" alt="Kauan-Js" height="30" width="40" src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript">
+  <img align="center" alt="Kauan-Js" src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript">
   <img align="center" alt="Kauan-HTML" height="60" width="40" src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5">
   <img align="center" alt="Kauan-CSS" height="60" width="40" src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6">
   <img align="center" alt="Kauan-Git" height="30" width="40" src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git">
