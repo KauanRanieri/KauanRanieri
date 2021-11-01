@@ -1,7 +1,6 @@
 
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou o Kauan Ranieri</h1>
 
- 🔥 Software developer
 
  <div align="center">
   <a href="https://github.com/KauanRanieri">
