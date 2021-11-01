@@ -9,7 +9,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauanRanieri&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
 
- ## ## ⚙️ &nbsp;GitHub Analytics
+ ## ⚙️ &nbsp;GitHub Analytics
  <div style="display: inline_block"><br>
   <img align="center" alt="Kauan-Js" src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript">
   <img align="center" alt="Kauan-HTML" src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5">
