@@ -4,12 +4,8 @@
  
  <div align="center">
   <a href="https://github.com/KauanRanieri">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=KauanRanieri&show_icons=true&theme=chartreuse-dark"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauanRanieri&layout=compact&langs_count=7&theme=chartreuse-dark"/>
-   <p align="right">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=KauanRanieri&theme=tokyonight&show_icons=true" />
-
-<img  float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauanRanieri&theme=tokyonight&show_icons=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=KauanRanieri&show_icons=true&theme=tokyonight&show_icons=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauanRanieri&layout=compact&langs_count=7&theme=tokyonight&show_icons=true"/>
 </div>
 
 
