@@ -2,7 +2,7 @@
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou o Kauan Ranieri</h1>
 
  
- <div align="center">
+ <div align="left">
   <a href="https://github.com/KauanRanieri">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=KauanRanieri&show_icons=true&theme=tokyonight&show_icons=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauanRanieri&layout=compact&langs_count=7&theme=tokyonight&show_icons=true"/>
